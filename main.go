@@ -6,5 +6,6 @@ import "fmt"
 
 /* Definimos la función principal */
 func main() {
-	fmt.Println("Hola Mundo!");
+	/* Imprimimos un mensaje en pantalla */
+	fmt.Println("Hola Mundo!")
 }
