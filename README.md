@@ -3,7 +3,7 @@
 
 Este es un proyecto de ejemplo en Go que muestra "Hola Mundo!"
 
-## Instalación
+## Instalar
 
 Para instalar las dependencias, ejecuta:
 
