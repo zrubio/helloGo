@@ -1,5 +1,3 @@
-Sí, puedes escribir en el archivo `/c:/usr/dev/goProjects/helloGo/README.md`. Aquí tienes un ejemplo de contenido en markdown:
-
 ```markdown
 # HelloGo
 
